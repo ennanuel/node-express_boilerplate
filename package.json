@@ -1,0 +1,18 @@
+{
+  "name": "express-boilerplate",
+  "version": "1.0.0",
+  "description": "A boiler plate code that would help you get started on building your own node backend service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "express"
+  ],
+  "author": "Emmanuel Ezema",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
